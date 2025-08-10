@@ -1,4 +1,4 @@
-# LLOYD – Language Layer Over Your Data 
+# LLOYD – Language Layers Over Your Data 
 
 LLOYD is a browser-based demonstration of symbolic tone-drift detection and override logic.  
 It listens for semantic, emotional, and motif deviation in user input—then reroutes response behavior in real time when thresholds are exceeded.
