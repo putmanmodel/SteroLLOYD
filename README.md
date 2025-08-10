@@ -32,7 +32,7 @@ Try it here: [https://tinyurl.com/sterolloyd](https://tinyurl.com/sterolloyd)
 | **Trigger Mapping** | Flags key words/phrases that signal tone or symbolic shifts | Supports intervention before escalation |
 | **DBI Scoring** | Uses a custom drift-bound index to measure change magnitude | Goes beyond sentiment to track symbolic resonance |
 | **Side-by-Side Output** | Shows baseline vs. rerouted output | Improves interpretability for testing and tuning |
-| **Drift Model** | Analyzes meaning in a multidimensional space | Captures subtler emotional and symbolic changes |
+| **LLOYD Drift Model** | Analyzes meaning in a multidimensional space | Captures subtler emotional and symbolic changes |
 | **LLM Integration-Ready** | Can inform newer AI models in directing emergent behavior and empathy | Bridges raw detection with adaptive generation |
 
 ---
