@@ -3,7 +3,7 @@
 LLOYD is a browser-based demonstration of symbolic tone-drift detection and override logic.  
 It listens for semantic, emotional, and motif deviation in user input—then reroutes response behavior in real time when thresholds are exceeded.
 
-This release showcases an updated non-Euclidean drift algorithm (details abstracted), packaged in a Streamlit interface for interpretability and narrative clarity.
+This release showcases an updated drift algorithm (details abstracted), packaged in a Streamlit interface for interpretability and narrative clarity.
 
 ---
 
