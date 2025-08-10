@@ -39,9 +39,10 @@ Try it here: [https://tinyurl.com/sterolloyd](https://tinyurl.com/sterolloyd)
 
 ### 📢 Collaboration & Expansion  
 
-Looking for serious collaboration for licensing, integration, and expansion.  
-I’m a solo builder—no lab, no budget, no investors—but deeply committed to exploring language, consciousness, and AI.  
-I have many ideas and a solid foundation in place, and I look forward to monetizing as soon as there’s serious interest.  
+Looking for serious collaboration for licensing, integration, and expansion.
+Not seeking casual curiosity inquiries or arrangements that dilute control of the IP.
+I’m a solo builder—no lab, no budget, no investors—but deeply committed to exploring language, consciousness, and AI, and I treasure my personal and research autonomy.
+I have many ideas and a solid foundation in place, and I look forward to monetizing as soon as there’s serious interest.
 This framework is capable of directing emergent behavior in newer LLMs while enabling much richer, empathy-driven responses.
 
 ---
